@@ -35,10 +35,14 @@ Here are some ideas to get you started:
 </div>
 <div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="teck-CSS" src="https://img.shields.io/badge/JEST-18df16?style=for-the-badge&logo=jest&logoColor=white">
-  <img align="center" alt="teck-CSS" src="https://img.shields.io/badge/CYPRESS-black?style=for-the-badge&logo=cypress&logoColor=white">
+  <img align="center" alt="teck-Jest" src="https://img.shields.io/badge/JEST-18df16?style=for-the-badge&logo=jest&logoColor=white">
+  <img align="center" alt="teck-Cypress" src="https://img.shields.io/badge/CYPRESS-black?style=for-the-badge&logo=cypress&logoColor=white">
 </div>
-
+<div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="teck-PYTHON" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img align="center" alt="teck-CSS" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+</div>
 <hr />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatosuguiy/)](https://www.linkedin.com/in/renatosuguiy/)
