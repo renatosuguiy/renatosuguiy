@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 # Renato Tateiwa Suguiy :man_technologist:
 
 {
-  idade: "31",
-  cidade: "Curitiba - PR",
+  age: "31",
+  city: Curitiba - PR",
   area: "Full Stack"
 }
 
