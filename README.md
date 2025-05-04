@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 # Renato Tateiwa Suguiy :man_technologist:
 
 {
-  age: "32",
+  age: "34",
   city: Curitiba - PR",
-  area: "Full Stack"
+  area: "Data Engineer"
 }
 
 <hr />
